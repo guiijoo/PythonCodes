@@ -8,4 +8,4 @@ print(int('1'), type(int('1')))
 print(1 + int('2'))
 print(bool("")) # String vazia => False
 print(bool(" ")) # String com qualquer valor => True
-
+print(str(11) + 'b')
